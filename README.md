@@ -39,7 +39,7 @@
 
   To test this application run "node index.js" and follow the prompted questions.
 
-  [Walk Through](./assets/README%20Generator%20walkthrough.webm)
+  [Walk Through](https://drive.google.com/file/d/1zTEjiB-sO9aUz1UXmfwqeMhju94pYPUz/view?usp=sharing)
 
   ## Questions
 
