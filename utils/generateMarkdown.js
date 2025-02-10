@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
     return '';
   }
 
-  return `[${license}](https://opensource.org/licenses/${license})`;
+  return `![${license}](https://opensource.org/licenses/${license})`;
 }
 
 // TODO: Create a function that returns the license section of README
