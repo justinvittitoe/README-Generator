@@ -1,4 +1,4 @@
-[License](https://img.shields.io/badge/license-MIT-blue?label=License&color=blue)
+![License](https://img.shields.io/badge/license-MIT-blue?label=License&color=blue)
   # README
   
   ## Description
@@ -23,7 +23,7 @@
 
   
   ## License
-  This application is covered under [License](https://img.shields.io/badge/license-MIT-blue?label=License&color=blue).
+  This application is covered under ![License](https://img.shields.io/badge/license-MIT-blue?label=License&color=blue).
 
   * Here is a link to the license description: [MIT](https://opensource.org/licenses/MIT)
 
