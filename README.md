@@ -38,7 +38,8 @@
   ## Tests
 
   To test this application run "node index.js" and follow the prompted questions.
-  [Walk_Through](file:///Users/justinvittitoe/Downloads/Untitled%20Video%20February%209,%202025%208_28%20PM.webm)
+
+  [Walk Through](./assets/README%20Generator%20walkthrough.webm)
 
   ## Questions
 
